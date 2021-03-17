@@ -20,3 +20,8 @@ TMUI_iOS_Templates
 
 `sudo git clone https://github.com/chengzongxin/Joe-Cocoa-Touch-Class.xctemplate.git /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Templates/File\ Templates/iOS/Source/Joe\ Cocoa\ Touch\ Class.xctemplate`
 或者直接拷贝到`Source`绝对路径
+
+## 效果图
+![创建类](https://github.com/chengzongxin/Joe-Cocoa-Touch-Class.xctemplate/blob/6755df2dbd2c1a63c57a867cc9f98eefc31dac9a/xctemplate1.jpg)
+
+![模板视图](https://github.com/chengzongxin/Joe-Cocoa-Touch-Class.xctemplate/blob/6755df2dbd2c1a63c57a867cc9f98eefc31dac9a/xctemplate2.jpg)
