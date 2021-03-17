@@ -17,3 +17,6 @@ TMUI_iOS_Templates
 
 `sudo git clone https://github.com/chengzongxin/Joe-Cocoa-Touch-Class.xctemplate.git Joe\ Cocoa\ Touch\ Class.xctemplate`
 无需重启 Xcode，直接新建文件，即可看到“Joe Class”的模板可供选择。
+
+`sudo git clone https://github.com/chengzongxin/Joe-Cocoa-Touch-Class.xctemplate.git /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Templates/File\ Templates/iOS/Source/Joe\ Cocoa\ Touch\ Class.xctemplate`
+或者直接拷贝到`Source`绝对路径
